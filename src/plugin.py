@@ -4,7 +4,7 @@ import re
 
 from mkdocs.plugins import BasePlugin
 
-class Image2FigurePlugin(BasePlugin):
+class Image2FigureWithIconsPlugin(BasePlugin):
 
     def on_page_markdown(self, markdown, **kwargs):
       
