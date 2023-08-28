@@ -1,2 +1,2 @@
 # __init__.py
-from .plugin import Image2FigurePlugin
+from .plugin import Image2FigureWithIconsPlugin
